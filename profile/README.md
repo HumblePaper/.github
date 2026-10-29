@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://raw.githubusercontent.com/HumblePaper/.github/main/profile/mark.png" width="64" alt="Humblepaper">
+</div>
+
 # Humblepaper
 
 We build [Leela](https://leela.works), a contract negotiation agent that works over email, and we maintain [The Contract Room](https://thecontractroom.com), an open reference for commercial deal-making.
